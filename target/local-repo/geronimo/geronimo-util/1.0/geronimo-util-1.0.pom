@@ -1,0 +1,303 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>geronimo</groupId>
+  <artifactId>geronimo-util</artifactId>
+  <name>Geronimo :: Util</name>
+  <version>1.0</version>
+  <description>Geronimo Util</description>
+  <url>http://incubator.apache.org/projects/geronimo/kernel/</url>
+  <issueManagement>
+    <url>http://issues.apache.org/jira/secure/BrowseProject.jspa?id=10220</url>
+  </issueManagement>
+  <ciManagement>
+    <notifiers>
+      <notifier>
+        <configuration>
+          <address>dev@geronimo.apache.org</address>
+        </configuration>
+      </notifier>
+    </notifiers>
+  </ciManagement>
+  <inceptionYear>2003</inceptionYear>
+  <mailingLists>
+    <mailingList>
+      <name>Geronimo User List</name>
+      <subscribe>user-subscribe@geronimo.apache.org</subscribe>
+      <unsubscribe>user-unsubscribe@geronimo.apache.org</unsubscribe>
+      <archive>http://nagoya.apache.org/eyebrowse/SummarizeList?listName=user@geronimo.apache.org</archive>
+    </mailingList>
+    <mailingList>
+      <name>Geronimo Developer List</name>
+      <subscribe>dev-subscribe@geronimo.apache.org</subscribe>
+      <unsubscribe>dev-unsubscribe@geronimo.apache.org</unsubscribe>
+      <archive>http://nagoya.apache.org/eyebrowse/SummarizeList?listName=dev@geronimo.apache.org</archive>
+    </mailingList>
+    <mailingList>
+      <name>Geronimo Source Control List</name>
+      <subscribe>scm-subscribe@geronimo.apache.org</subscribe>
+      <unsubscribe>scm-unsubscribe@geronimo.apache.org</unsubscribe>
+      <archive>http://nagoya.apache.org/eyebrowse/SummarizeList?listName=scm@geronimo.apache.org</archive>
+    </mailingList>
+  </mailingLists>
+  <developers>
+    <developer>
+      <id>janb</id>
+      <name>Jan Bartel</name>
+      <email>janb@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>dblevins</id>
+      <name>David Blevins</name>
+      <email>dblevins@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>simon</id>
+      <name>Simone Bordet</name>
+      <email>simon@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>jboynes</id>
+      <name>Jeremy Boynes</name>
+      <email>jboynes@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>adc</id>
+      <name>Alan D. Cabrera</name>
+      <email>adc@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>chirino</id>
+      <name>Remigio Chirino</name>
+      <email>chirino@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>gdamour</id>
+      <name>Gianny Damour</name>
+      <email>gdamour@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>jdilon</id>
+      <name>Jason Dillon</name>
+      <email>jdilon@planet57.com</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>jgenender</id>
+      <name>Jeff Genender</name>
+      <email>jgenender@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>jules</id>
+      <name>Jules Golsnell</name>
+      <email>jules@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>jim</id>
+      <name>Jim Jagielski</name>
+      <email>jim@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>djencks</id>
+      <name>David Jencks</name>
+      <email>djencks@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>jlaskowski</id>
+      <name>Jacek Laskowski</name>
+      <email>jlaskowski@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>geirm</id>
+      <name>Geir Magnusson Jr.</name>
+      <email>geirm@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>rmonson</id>
+      <name>Richard Monson-Haefel</name>
+      <email>rmonson@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>ammulder</id>
+      <name>Aaron Mulder</name>
+      <email>ammulder@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>hemapani</id>
+      <name>Srinath Perera</name>
+      <email>hemapani@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>bsnyder</id>
+      <name>Bruce Snyder</name>
+      <email>bsnyder@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>jstrachan</id>
+      <name>James Strachan</name>
+      <email>jstrachan@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>dain</id>
+      <name>Dain Sundstrom</name>
+      <email>dain@apache.org</email>
+      <organization></organization>
+    </developer>
+    <developer>
+      <id>gregw</id>
+      <name>Greg Wilkins</name>
+      <email>gregw@apache.org</email>
+      <organization></organization>
+    </developer>
+  </developers>
+  <contributors>
+    <contributor>
+      <name>Alex Blewitt</name>
+      <email>Alex.Blewitt@ioshq.com</email>
+    </contributor>
+    <contributor>
+      <name>Brendan W. McAdams</name>
+      <email>bmcadams@sluggy.com</email>
+    </contributor>
+    <contributor>
+      <name>Brent Worden</name>
+      <email>brent@worden.org</email>
+    </contributor>
+    <contributor>
+      <name>Davanum Srinivas</name>
+      <email>dims@yahoo.com</email>
+    </contributor>
+    <contributor>
+      <name>Ed Letifov</name>
+      <email>e.letifov@chello.nl</email>
+    </contributor>
+    <contributor>
+      <name>Kristian Koehler</name>
+      <email>Kristian.Koehler@gmx.de</email>
+    </contributor>
+    <contributor>
+      <name>Maas van den Berg</name>
+      <email>email@dds.nl</email>
+    </contributor>
+    <contributor>
+      <name>N. Alex Rupp</name>
+      <email>alex@nrfx.com</email>
+    </contributor>
+    <contributor>
+      <name>Siva</name>
+      <email>siva@sivasundaram.com</email>
+    </contributor>
+  </contributors>
+  <scm>
+    <connection>scm:subversion:http://svn.apache.org/repos/asf/geronimo/trunk</connection>
+    <developerConnection>scm:subversion:https://svn.apache.org/repos/asf/geronimo/trunk</developerConnection>
+    <url>http://svn.apache.org/viewcvs.cgi/geronimo/trunk/?root=Apache-SVN</url>
+  </scm>
+  <organization>
+    <name>Apache Software Foundation</name>
+    <url>http://geronimo.apache.org/</url>
+  </organization>
+  <build>
+    <sourceDirectory>/home/hogstrom/geronimo-1.0-src/modules/util/src/java</sourceDirectory>
+    <testSourceDirectory>/home/hogstrom/geronimo-1.0-src/modules/util/src/test</testSourceDirectory>
+    <resources>
+      <resource>
+        <directory>/home/hogstrom/geronimo-1.0-src/modules/util/src/java</directory>
+        <includes>
+          <include>**/*.xml</include>
+          <include>**/*.properties</include>
+        </includes>
+      </resource>
+    </resources>
+    <testResources>
+      <testResource>
+        <targetPath>META-INF</targetPath>
+        <directory>/home/hogstrom/geronimo-1.0-src/modules/util/src</directory>
+        <includes>
+          <include>schema/**</include>
+        </includes>
+      </testResource>
+      <testResource>
+        <directory>/home/hogstrom/geronimo-1.0-src/modules/util/src/test-data</directory>
+        <includes>
+          <include>**/*</include>
+        </includes>
+      </testResource>
+      <testResource>
+        <directory>/home/hogstrom/geronimo-1.0-src/modules/util/src/test-resources</directory>
+        <includes>
+          <include>**/*</include>
+        </includes>
+      </testResource>
+    </testResources>
+    <plugins>
+      <plugin>
+        <artifactId>surefire</artifactId>
+        <configuration>
+          <includes>
+            <include>**/*Test.java</include>
+          </includes>
+          <excludes>
+            <exclude>**/Abstract*.java</exclude>
+          </excludes>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  <dependencies>
+    <dependency>
+      <groupId>org.apache.geronimo.specs</groupId>
+      <artifactId>geronimo-j2ee-management_1.0_spec</artifactId>
+      <version>1.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.geronimo.specs</groupId>
+      <artifactId>geronimo-j2ee-deployment_1.1_spec</artifactId>
+      <version>1.0</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-logging</groupId>
+      <artifactId>commons-logging</artifactId>
+      <version>1.0.4</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-jelly</groupId>
+      <artifactId>commons-jelly-tags-velocity</artifactId>
+      <version>1.0</version>
+    </dependency>
+    <dependency>
+      <groupId>velocity</groupId>
+      <artifactId>velocity</artifactId>
+      <version>1.4</version>
+    </dependency>
+  </dependencies>
+  <distributionManagement>
+    <repository>
+      <id>default</id>
+      <name>Default Repository</name>
+      <url>file:///www/incubator.apache.org/projects/geronimo/builds/kernel</url>
+    </repository>
+    <site>
+      <id>default</id>
+      <name>Default Site</name>
+      <url>scp://geronimo.apache.org//www/incubator.apache.org/projects/geronimo/kernel</url>
+    </site>
+  </distributionManagement>
+</project>
