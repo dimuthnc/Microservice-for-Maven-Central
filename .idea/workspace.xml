@@ -1,7 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="468b9f0f-2047-4e73-a2f8-c302cc46d227" name="Default" comment="" />
+    <list default="true" id="468b9f0f-2047-4e73-a2f8-c302cc46d227" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-repo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/maven-repo-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/original-maven-repo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/original-maven-repo-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/ant-contrib/ant-contrib/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/ant-contrib/ant-contrib/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/aopalliance/aopalliance/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/aopalliance/aopalliance/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/bouncycastle/bcprov-jdk15/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/bouncycastle/bcprov-jdk15/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/com/googlecode/json-simple/json-simple/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/com/googlecode/json-simple/json-simple/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/com/ibm/icu/icu4j/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/com/ibm/icu/icu4j/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/com/lowagie/itext/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/com/lowagie/itext/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/com/sun/xml/bind/jaxb-impl/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/com/sun/xml/bind/jaxb-impl/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/com/sun/xml/bind/jaxb-xjc/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/com/sun/xml/bind/jaxb-xjc/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/com/thoughtworks/xstream/xstream/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/com/thoughtworks/xstream/xstream/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/commons-beanutils/commons-beanutils/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/commons-beanutils/commons-beanutils/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/commons-betwixt/commons-betwixt/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/commons-betwixt/commons-betwixt/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/commons-collections/commons-collections/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/commons-collections/commons-collections/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/commons-configuration/commons-configuration/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/commons-configuration/commons-configuration/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/commons-digester/commons-digester/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/commons-digester/commons-digester/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/commons-lang/commons-lang/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/commons-lang/commons-lang/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/de/odysseus/juel/juel-api/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/de/odysseus/juel/juel-api/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/de/odysseus/juel/juel-impl/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/de/odysseus/juel/juel-impl/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/javax/activation/activation/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/javax/activation/activation/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/javax/mail/mail/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/javax/mail/mail/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/javax/ws/rs/javax.ws.rs-api/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/javax/ws/rs/javax.ws.rs-api/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/jstl/jstl/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/jstl/jstl/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/net/oauth/core/oauth-provider/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/net/oauth/core/oauth-provider/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/net/oauth/core/oauth/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/net/oauth/core/oauth/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/net/sf/ehcache/ehcache-core/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/net/sf/ehcache/ehcache-core/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/net/sf/ezmorph/ezmorph/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/net/sf/ezmorph/ezmorph/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/net/sourceforge/htmlunit/htmlunit/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/net/sourceforge/htmlunit/htmlunit/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/net/sourceforge/nekohtml/nekohtml/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/net/sourceforge/nekohtml/nekohtml/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/antlr/antlr/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/antlr/antlr/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/antlr/stringtemplate/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/antlr/stringtemplate/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-client/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-client/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/cxf-bundle/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/cxf-bundle/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-boolean/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-boolean/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-bug671/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-bug671/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-dv/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-dv/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-ts/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-ts/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.command/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.command/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.runtime/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.runtime/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.shell/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.shell/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpasyncclient/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpasyncclient/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpclient/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpclient/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpcore-nio/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpcore-nio/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpcore/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpcore/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/api/openstack-keystone/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/api/openstack-keystone/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/api/sts/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/api/sts/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/common/openstack-common/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/common/openstack-common/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-bouncycastle/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-bouncycastle/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-enterprise/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-enterprise/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-joda/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-joda/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-netty/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-netty/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-slf4j/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-slf4j/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-sshj/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-sshj/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-compute/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-compute/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-core/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-core/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-scriptbuilder/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-scriptbuilder/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/neethi/neethi/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/neethi/neethi/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/sanselan/sanselan/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/sanselan/sanselan/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/santuario/xmlsec/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/santuario/xmlsec/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.autoscaler.service.stub/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.autoscaler.service.stub/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.cloud.controller.service.stub/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.cloud.controller.service.stub/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.cloud.controller/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.cloud.controller/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.common/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.common/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.manager/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.manager/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.messaging/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.messaging/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.tenant.mgt/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.tenant.mgt/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/tomcat/tomcat-juli/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/tomcat/tomcat-juli/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/velocity/velocity/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/velocity/velocity/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/ws/security/wss4j/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/ws/security/wss4j/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/ws/xmlschema/xmlschema-core/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/ws/xmlschema/xmlschema-core/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/apache/xmlbeans/xmlbeans/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/apache/xmlbeans/xmlbeans/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jackson/jackson-core-asl/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/codehaus/jackson/jackson-core-asl/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jackson/jackson-mapper-asl/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/codehaus/jackson/jackson-mapper-asl/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jettison/jettison/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/codehaus/jettison/jettison/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/stax2-api/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/stax2-api/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/woodstox-core-asl/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/woodstox-core-asl/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-compiler/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/drools/drools-compiler/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-core/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/drools/drools-core/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-decisiontables/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/drools/drools-decisiontables/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-jsr94/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/drools/drools-jsr94/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-templates/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/drools/drools-templates/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-verifier/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/drools/drools-verifier/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/drools/knowledge-api/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/drools/knowledge-api/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/drools/knowledge-internal-api/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/drools/knowledge-internal-api/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.contenttype/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.contenttype/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.expressions/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.expressions/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.jobs/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.jobs/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.runtime/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.runtime/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.app/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.app/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.common/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.common/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.preferences/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.preferences/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.registry/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.registry/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.osgi.services/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.osgi.services/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.osgi/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.osgi/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/javax.servlet.jsp/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/javax.servlet.jsp/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.http.servlet/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.http.servlet/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.jsp.jasper/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.jsp.jasper/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.core/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.core/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.director/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.director/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.garbagecollector/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.garbagecollector/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.metadata.repository/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.metadata.repository/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.publisher/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.publisher/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.repository/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.repository/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.security/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.security/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jdt/core/compiler/ecj/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/jdt/core/compiler/ecj/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.el/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.el/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.servlet.jsp/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.servlet.jsp/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.servlet/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.servlet/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/wst/jsdt/org.eclipse.wst.jsdt.debug.rhino.debugger/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/wst/jsdt/org.eclipse.wst.jsdt.debug.rhino.debugger/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/wst/jsdt/org.eclipse.wst.jsdt.debug.transport/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/eclipse/wst/jsdt/org.eclipse.wst.jsdt.debug.transport/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/fusesource/hawtbuf/hawtbuf/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/fusesource/hawtbuf/hawtbuf/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/jsecurity/jsecurity/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/jsecurity/jsecurity/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/json/json/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/json/json/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/mortbay/jetty/jetty/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/mortbay/jetty/jetty/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/mvel/mvel2/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/mvel/mvel2/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/opensaml/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/opensaml/opensaml/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/openws/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/opensaml/openws/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/xmltooling/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/opensaml/xmltooling/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/openxri/openxri-client/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/openxri/openxri-client/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/openxri/openxri-syntax/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/openxri/openxri-syntax/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/scribe/scribe/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/scribe/scribe/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-aop/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-aop/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-asm/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-asm/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-beans/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-beans/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-context/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-context/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-core/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-core/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-expression/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-expression/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-web/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-web/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/rome/rome/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/rome/rome/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/woodstox/wstx/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/woodstox/wstx/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/ws-commons/tcpmon/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/ws-commons/tcpmon/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/wsdl4j/wsdl4j/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/wsdl4j/wsdl4j/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/xerces/xercesImpl/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/xerces/xercesImpl/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/xerces/xmlParserAPIs/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/xerces/xmlParserAPIs/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/xml-apis/xml-apis/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/xml-apis/xml-apis/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/xml-resolver/xml-resolver/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/xml-resolver/xml-resolver/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/xmlpull/xmlpull/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/xmlpull/xmlpull/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/local-repo/xpp3/xpp3_min/resolver-status.properties" afterPath="$PROJECT_DIR$/target/local-repo/xpp3/xpp3_min/resolver-status.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,28 +160,48 @@
       <file leaf-file-name="ConsoleTransferListener.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/util/ConsoleTransferListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2124">
+            <state relative-caret-position="0">
               <caret line="134" column="18" lean-forward="false" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Application_Deploy_MavenAether.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Application_Deploy_MavenAether.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/service/Application_Deploy_MavenAether.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="252">
+              <caret line="28" column="45" lean-forward="false" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="Service_DependencyManagerOfMaven.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/service/Service_DependencyManagerOfMaven.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/target/appassembler/bin/app">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1826">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="183" column="78" lean-forward="false" selection-start-line="183" selection-start-column="78" selection-end-line="183" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -46,7 +210,7 @@
       <file leaf-file-name="Booter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/util/Booter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
+            <state relative-caret-position="483">
               <caret line="70" column="1" lean-forward="false" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -144,13 +308,13 @@
         <option value="$PROJECT_DIR$/src/main/java/org/eclipse/util/ConsoleTransferListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/JSONFormats/BuildJSONStructure.java" />
         <option value="$PROJECT_DIR$/src/main/resources/repoConfiguration.yaml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/DependencyHeirarchy.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/service/Service_DependencyManagerOfwso2.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/service/Application_Deploy_WSO2.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/LatestVersion.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/service/Service_DependencyManagerOfMaven.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/service/Application_Deploy_MavenAether.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -199,45 +363,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
+              <item name="editing-microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
+              <item name="editing-microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
+              <item name="editing-microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
+              <item name="editing-microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="JSONFormats" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
+              <item name="editing-microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -245,36 +400,7 @@
             </path>
             <path>
               <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="eclipse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="eclipse" type="462c0819:PsiDirectoryNode" />
-              <item name="configPOJOS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="eclipse" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
+              <item name="editing-microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -283,25 +409,28 @@
             </path>
             <path>
               <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceSupportClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="editing-microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="editing-microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="appassembler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wso2-repo-aether-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="editing-microservice-aether-maven-central" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="appassembler" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -463,31 +592,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="27" width="1831" height="1002" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3616019" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29210836" sideWeight="0.50196296" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13292204" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13628715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2816568" sideWeight="0.498037" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28268552" sideWeight="0.498037" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2556213" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.258553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26191813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3616019" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32871974" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -545,18 +675,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/service/Application_Deploy_MavenAether.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JSONFormats/BuildJSONStructure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -572,10 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1044">
           <caret line="79" column="49" lean-forward="false" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#4215#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,10 +734,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="60" column="62" lean-forward="false" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#4215#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -652,10 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="60" column="62" lean-forward="false" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#4215#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -704,10 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="60" column="62" lean-forward="false" selection-start-line="60" selection-start-column="62" selection-end-line="60" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#4215#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -740,10 +846,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#4215#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,10 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="33" column="2" lean-forward="false" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#4215#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -859,7 +957,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/util/ConsoleTransferListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2124">
+        <state relative-caret-position="0">
           <caret line="134" column="18" lean-forward="false" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
           <folding />
         </state>
@@ -876,7 +974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -911,28 +1008,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/service/Service_DependencyManagerOfMaven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#4215#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/util/Booter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
+        <state relative-caret-position="483">
           <caret line="70" column="1" lean-forward="false" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -942,8 +1020,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/service/Application_Deploy_MavenAether.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="28" column="45" lean-forward="false" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/service/Service_DependencyManagerOfMaven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/appassembler/bin/app">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1826">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="183" column="78" lean-forward="false" selection-start-line="183" selection-start-column="78" selection-end-line="183" selection-end-column="78" />
           <folding />
         </state>
       </provider>
