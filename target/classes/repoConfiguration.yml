@@ -1,0 +1,5 @@
+# Setting Remote Repository
+remoteRepository:
+    url: http://central.maven.org/maven4/
+    id: central
+    type: default

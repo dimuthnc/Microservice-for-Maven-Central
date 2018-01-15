@@ -1,0 +1,6 @@
+# Setting running port
+port: 9094
+# Setting Remote Repository
+url: http://central.maven.org/maven2/
+id: central
+type: default

@@ -58,6 +58,9 @@
                 <id>app</id>
               </program>
             </programs>
+            <configurationDirectory>config</configurationDirectory>
+            <configurationSourceDirectory>src/main/resources</configurationSourceDirectory>
+            <copyConfigurationDirectory>true</copyConfigurationDirectory>
           </configuration>
         </plugin>
       </plugins>

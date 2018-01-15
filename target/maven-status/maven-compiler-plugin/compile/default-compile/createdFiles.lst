@@ -1,13 +1,16 @@
 org/service/Application_Deploy_MavenAether.class
 JSONFormats/DependencyTreeJSONFormat.class
 org/eclipse/util/ConsoleTransferListener.class
+org/configFileReader/configurationReader.class
 JSONFormats/BuildJSONStructure.class
+org/configFileReader/yamlReader.class
 org/eclipse/manual/ManualRepositorySystemFactory$1.class
 org/serviceSupportClasses/LatestVersion.class
 org/eclipse/configPOJOS/RemoteRepo.class
 org/eclipse/util/Booter.class
 org/serviceSupportClasses/DependencyHeirarchy.class
 org/service/Service_DependencyManagerOfMaven.class
+org/configFileReader/fileFormat.class
 JSONFormats/LatestVersionJSONFormat.class
 org/eclipse/util/ConsoleRepositoryListener.class
 org/eclipse/manual/ManualRepositorySystemFactory.class

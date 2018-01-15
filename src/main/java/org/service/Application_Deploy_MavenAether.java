@@ -16,6 +16,10 @@
 
 package org.service;
 
+import org.configFileReader.configurationReader;
+import org.configFileReader.configFilePOJO;
+
+import java.util.logging.Logger;
 import org.wso2.msf4j.MicroservicesRunner;
 
 /**
@@ -24,9 +28,24 @@ import org.wso2.msf4j.MicroservicesRunner;
  * @since 1.0-SNAPSHOT
  */
 public class Application_Deploy_MavenAether {
+
+    private final static Logger LOGGERMAIN = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
+
     public static void main(String[] args) {
-        new MicroservicesRunner(9094)
-                .deploy(new Service_DependencyManagerOfMaven())
-                .start();
+
+        try{
+            configurationReader configs = new configurationReader();
+            configFilePOJO configurations = configs.getConfigurations();
+
+            new MicroservicesRunner(configurations.getPort())
+                    .deploy(new Service_DependencyManagerOfMaven(configurations))
+                    .start();
+
+            LOGGERMAIN.info("Service Deployed Successfully");
+
+        }catch (Exception e){
+            LOGGERMAIN.info("Failed to deploy service");
+            LOGGERMAIN.info("Error:"+ e.getMessage());
+        }
     }
 }

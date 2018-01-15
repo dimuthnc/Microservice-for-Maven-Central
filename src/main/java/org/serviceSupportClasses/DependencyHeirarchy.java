@@ -1,5 +1,6 @@
 package org.serviceSupportClasses;
 
+import org.configFileReader.configFilePOJO;
 import org.eclipse.aether.DefaultRepositorySystemSession;
 import org.eclipse.aether.RepositorySystem;
 import org.eclipse.aether.artifact.Artifact;
@@ -15,7 +16,7 @@ import org.eclipse.aether.util.graph.manager.DependencyManagerUtils;
 import org.eclipse.aether.util.graph.transformer.ConflictResolver;
 
 public class DependencyHeirarchy {
-    public static StringBuilder getDependencyHeirarchy(String groupID, String artifactID, String version){
+    public static StringBuilder getDependencyHeirarchy(String groupID, String artifactID, String version, configFilePOJO configurations){
 
 
         RepositorySystem system = Booter.newRepositorySystem();
@@ -32,7 +33,7 @@ public class DependencyHeirarchy {
 
         ArtifactDescriptorRequest descriptorRequest = new ArtifactDescriptorRequest();
         descriptorRequest.setArtifact( artifact );
-        descriptorRequest.setRepositories( Booter.newRepositories( system, session ) );
+        descriptorRequest.setRepositories( Booter.newRepositories( system, session, configurations ) );
 
         CollectRequest collectRequest = new CollectRequest();
 

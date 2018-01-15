@@ -37,13 +37,14 @@
     <orderEntry type="library" name="Maven: org.apache.maven:maven-repository-metadata:3.1.0" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-component-annotations:1.5.5" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-utils:3.0.10" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:18.0" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.sisu:org.eclipse.sisu.plexus:0.1.1" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.sisu:org.eclipse.sisu.inject:0.1.1" level="project" />
     <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-classworlds:2.4" level="project" />
     <orderEntry type="library" name="Maven: org.sonatype.sisu:sisu-guice:no_aop:3.1.6" level="project" />
     <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
-    <orderEntry type="library" name="Maven: com.google.guava:guava:11.0.2" level="project" />
     <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.17" level="project" />
+    <orderEntry type="library" name="Maven: com.esotericsoftware.yamlbeans:yamlbeans:1.06" level="project" />
     <orderEntry type="library" name="Maven: org.wso2.msf4j:msf4j-core:2.4.0" level="project" />
     <orderEntry type="library" name="Maven: org.wso2.carbon.messaging:org.wso2.carbon.messaging:3.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.wso2.carbon:org.wso2.carbon.core:5.2.0" level="project" />

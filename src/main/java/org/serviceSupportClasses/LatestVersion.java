@@ -1,5 +1,6 @@
 package org.serviceSupportClasses;
 
+import org.configFileReader.configFilePOJO;
 import org.eclipse.aether.RepositorySystem;
 import org.eclipse.aether.RepositorySystemSession;
 import org.eclipse.aether.artifact.Artifact;
@@ -12,7 +13,7 @@ import org.eclipse.aether.version.Version;
 public class LatestVersion {
 
     //public static void main( String[] args ) throws Exception{
-    public static String getVersion( String groupID, String artifactID){
+    public static String getVersion(String groupID, String artifactID, configFilePOJO configurations){
 
         RepositorySystem system = Booter.newRepositorySystem();
 
@@ -24,7 +25,7 @@ public class LatestVersion {
 
         VersionRangeRequest rangeRequest = new VersionRangeRequest();
         rangeRequest.setArtifact( artifact );
-        rangeRequest.setRepositories( Booter.newRepositories( system, session ) );
+        rangeRequest.setRepositories( Booter.newRepositories( system, session, configurations ) );
 
         String ans;
         ans = "{\"ErrorMsg\":\"NotFound\"}";

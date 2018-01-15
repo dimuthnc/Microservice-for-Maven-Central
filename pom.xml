@@ -101,6 +101,11 @@
             <version>3.1.0</version>
         </dependency>
         <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>18.0</version>
+        </dependency>
+        <dependency>
             <groupId>org.eclipse.sisu</groupId>
             <artifactId>org.eclipse.sisu.plexus</artifactId>
             <version>0.1.1</version>
@@ -133,6 +138,11 @@
             <groupId>org.yaml</groupId>
             <artifactId>snakeyaml</artifactId>
             <version>1.17</version>
+        </dependency>
+        <dependency>
+            <groupId>com.esotericsoftware.yamlbeans</groupId>
+            <artifactId>yamlbeans</artifactId>
+            <version>1.06</version>
         </dependency>
     </dependencies>
 
@@ -185,6 +195,9 @@
                                 <id>app</id>
                             </program>
                         </programs>
+                        <configurationDirectory>config</configurationDirectory>
+                        <configurationSourceDirectory>src/main/resources</configurationSourceDirectory>
+                        <copyConfigurationDirectory>true</copyConfigurationDirectory>
                     </configuration>
                 </plugin>
             </plugins>

@@ -19,6 +19,7 @@ package org.service;
 import JSONFormats.*;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
+import org.configFileReader.configFilePOJO;
 import org.serviceSupportClasses.*;
 import java.util.logging.Logger;
 
@@ -37,6 +38,11 @@ import javax.ws.rs.core.Response;
 public class Service_DependencyManagerOfMaven {
 
     private final static Logger LOGGER = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
+    private configFilePOJO configurations;
+
+    public Service_DependencyManagerOfMaven(configFilePOJO configs) {
+        this.configurations = configs;
+    }
 
     @GET
     @Path("/test")
@@ -44,11 +50,15 @@ public class Service_DependencyManagerOfMaven {
     public Response get() {
         // For the purpose of checking
         LOGGER.info("Testing the Maven Central Aether Micorservice");
+
         JsonObject reply;
         String message = "{ \"MessageTest\":\"Hello, this is wso2 dependency manager dealing with maven repo\"}";
+
         JsonParser parser = new JsonParser();
         reply = parser.parse(message).getAsJsonObject();
-        LOGGER.info("Building reply Message successfull");
+
+        LOGGER.info("Building reply Message successful");
+
         return Response.ok(reply,MediaType.APPLICATION_JSON).build();
     }
 
@@ -61,13 +71,15 @@ public class Service_DependencyManagerOfMaven {
         LOGGER.info("Finding Latest version for library of group ID:"+jsonObj.groupID+" and artifact ID:"+jsonObj.artifactID);
 
         long startTime = System.currentTimeMillis();
-        String latestVersion = LatestVersion.getVersion(jsonObj.groupID,jsonObj.artifactID);
+        String latestVersion = LatestVersion.getVersion(jsonObj.groupID,jsonObj.artifactID,configurations);
 
         JsonObject reply;
         if(latestVersion.contains("ErrorMsg")){
+
             LOGGER.info("Could not Find");
             return Response.status(Response.Status.NOT_FOUND).entity("NotFound").build();
         }else{
+
             LOGGER.info("Finished retreiving latest");
             JsonParser parser = new JsonParser();
             reply = parser.parse(latestVersion).getAsJsonObject();
@@ -87,7 +99,7 @@ public class Service_DependencyManagerOfMaven {
         LOGGER.info("Finding heirarchy for library of group ID:"+jsonObj.groupID+" and artifact ID:"+jsonObj.artifactID+" and version:"+jsonObj.version);
 
         long startTime = System.currentTimeMillis();
-        StringBuilder JsonStringBuilderTree = DependencyHeirarchy.getDependencyHeirarchy(jsonObj.groupID,jsonObj.artifactID,jsonObj.version);
+        StringBuilder JsonStringBuilderTree = DependencyHeirarchy.getDependencyHeirarchy(jsonObj.groupID,jsonObj.artifactID,jsonObj.version,configurations);
         String JsonStringTree= JsonStringBuilderTree.toString();
 
         JsonObject reply;
