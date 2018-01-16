@@ -16,8 +16,8 @@
 
 package org.service;
 
-import org.configFileReader.configurationReader;
-import org.configFileReader.configFilePOJO;
+import org.configFileReader.ConfigurationReader;
+import org.configFileReader.ConfigFilePOJO;
 
 import java.util.logging.Logger;
 import org.wso2.msf4j.MicroservicesRunner;
@@ -34,15 +34,21 @@ public class Application_Deploy_MavenAether {
     public static void main(String[] args) {
 
         try{
-            configurationReader configs = new configurationReader();
-            configFilePOJO configurations = configs.getConfigurations();
+            ConfigurationReader configs = new ConfigurationReader();
+            ConfigFilePOJO configurations = configs.getConfigurations();
 
-            new MicroservicesRunner(configurations.getPort())
-                    .deploy(new Service_DependencyManagerOfMaven(configurations))
-                    .start();
+            if(configurations.getPort() == 0  ||  configurations.getId() == null || configurations.getId().isEmpty() ||
+                    configurations.getUrl()== null  || configurations.getUrl().isEmpty()  ||
+                     configurations.getName()== null || configurations.getName().isEmpty() ||
+                    configurations.getType() == null  || configurations.getName().isEmpty()){
+                LOGGERMAIN.info("Cannot deploy service.. Check whether port, name, url, id and type fields are available");
+            } else {
+                new MicroservicesRunner(configurations.getPort())
+                        .deploy(new Service_DependencyManager(configurations))
+                        .start();
 
-            LOGGERMAIN.info("Service Deployed Successfully");
-
+                LOGGERMAIN.info("Service for Repository " + configurations.getName() +" Deployed Successfully");
+            }
         }catch (Exception e){
             LOGGERMAIN.info("Failed to deploy service");
             LOGGERMAIN.info("Error:"+ e.getMessage());

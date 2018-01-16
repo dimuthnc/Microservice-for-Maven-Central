@@ -1,7 +1,6 @@
 package org.eclipse.util;
 
 import org.apache.maven.repository.internal.MavenRepositorySystemUtils;
-import org.configFileReader.configurationReader;
 import org.eclipse.aether.DefaultRepositorySystemSession;
 import org.eclipse.aether.RepositorySystem;
 import org.eclipse.aether.RepositorySystemSession;
@@ -12,11 +11,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import java.io.InputStream;
-
-import org.eclipse.configPOJOS.RemoteRepo;
-import org.configFileReader.configFilePOJO;
-import org.yaml.snakeyaml.Yaml;
+import org.configFileReader.ConfigFilePOJO;
 
 
 /**
@@ -46,12 +41,12 @@ public class Booter
         return session;
     }
 
-    public static List<RemoteRepository> newRepositories(RepositorySystem system, RepositorySystemSession session, configFilePOJO remoteRepoInfo)
+    public static List<RemoteRepository> newRepositories(RepositorySystem system, RepositorySystemSession session, ConfigFilePOJO remoteRepoInfo)
     {
         return new ArrayList<RemoteRepository>( Arrays.asList( newCentralRepository(remoteRepoInfo) ) );
     }
 
-    private static RemoteRepository newCentralRepository(configFilePOJO remoteRepoInfo)
+    private static RemoteRepository newCentralRepository(ConfigFilePOJO remoteRepoInfo)
     {
        //return new RemoteRepository.Builder( "central", "default", "http://dist.wso2.org/maven2/" ).build();
         String url;
@@ -68,7 +63,7 @@ public class Booter
 //        }
 
 //        Yaml yaml = new Yaml();
-//        try(InputStream in = ClassLoader.getSystemResourceAsStream("repoConfiguration.yml")) {
+//        try(InputStream in = ClassLoader.getSystemResourceAsStream("config.yml")) {
 //            config = yaml.loadAs(in, RemoteRepo.class);
 //        } catch(Exception ex) {
 //            ex.printStackTrace();

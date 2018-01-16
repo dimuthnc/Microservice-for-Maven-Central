@@ -1,6 +1,6 @@
 package org.serviceSupportClasses;
 
-import org.configFileReader.configFilePOJO;
+import org.configFileReader.ConfigFilePOJO;
 import org.eclipse.aether.RepositorySystem;
 import org.eclipse.aether.RepositorySystemSession;
 import org.eclipse.aether.artifact.Artifact;
@@ -12,8 +12,8 @@ import org.eclipse.aether.version.Version;
 
 public class LatestVersion {
 
-    //public static void main( String[] args ) throws Exception{
-    public static String getVersion(String groupID, String artifactID, configFilePOJO configurations){
+    //return the latest Version of the given Artifact
+    public static String getVersion(String groupID, String artifactID, ConfigFilePOJO configurations){
 
         RepositorySystem system = Booter.newRepositorySystem();
 
@@ -37,7 +37,7 @@ public class LatestVersion {
 
             System.out.println( "Newest version " + newestVersion + " from repository "
                     + rangeResult.getRepository( newestVersion ) );
-            ans   =   "{\"Artifact\":\""+artifactID+"\",";
+            ans   =   "{\"GroupID\":\""+groupID+"\",\"ArtifactID\":\""+artifactID+"\",";
 
             if(newestVersion!=null){
                 ans = ans.concat("\"NewestVersion\":\""+newestVersion.toString()+"\"}");
