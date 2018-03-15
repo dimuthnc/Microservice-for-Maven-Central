@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.wso2.ppaas</groupId>
+  <artifactId>wso2ppaas-membership-scheme</artifactId>
+  <versioning>
+    <latest>4.1.1</latest>
+    <release>4.1.1</release>
+    <versions>
+      <version>4.1.0</version>
+      <version>4.1.1</version>
+    </versions>
+    <lastUpdated>20160104081126</lastUpdated>
+  </versioning>
+</metadata>

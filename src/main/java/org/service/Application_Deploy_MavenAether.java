@@ -16,6 +16,7 @@
 
 package org.service;
 
+import authentication.UsernamePasswordSecurityInterceptor;
 import org.configFileReader.ConfigurationReader;
 import org.configFileReader.ConfigFilePOJO;
 
@@ -44,6 +45,7 @@ public class Application_Deploy_MavenAether {
                 LOGGERMAIN.info("Cannot deploy service.. Check whether port, name, url, id and type fields are available");
             } else {
                 new MicroservicesRunner(configurations.getPort())
+
                         .deploy(new Service_DependencyManager(configurations))
                         .start();
 

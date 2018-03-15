@@ -17,49 +17,46 @@ public class AvailableVersions {
     //return the available versionsgit  of the given Artifact
     public static StringBuilder getAvailableVersions(String groupID, String artifactID, ConfigFilePOJO configurations) {
 
-
         RepositorySystem system = Booter.newRepositorySystem();
 
         DefaultRepositorySystemSession session = Booter.newRepositorySystemSession(system);
 
-        String artifactRef = groupID+":"+artifactID+":[0,)";
+        String artifactRef = groupID + ":" + artifactID + ":[0,)";
 
         Artifact artifact = new DefaultArtifact(artifactRef);//set the artifact
 
         VersionRangeRequest rangeRequest = new VersionRangeRequest();
-        rangeRequest.setArtifact( artifact );
+        rangeRequest.setArtifact(artifact);
 
         rangeRequest.setRepositories(Booter.newRepositories(system, session, configurations));
 
-        StringBuilder jsonString= new StringBuilder("{\"ErrorMsg\":\"NotFound\"}");
-        StringBuilder ans =  new StringBuilder();
-        try{
+        StringBuilder jsonString = new StringBuilder("{\"ErrorMsg\":\"NotFound\"}");
+        StringBuilder ans = new StringBuilder();
+        try {
 
-            VersionRangeResult rangeResult = system.resolveVersionRange( session, rangeRequest );
+            VersionRangeResult rangeResult = system.resolveVersionRange(session, rangeRequest);
 
             List<Version> versions = rangeResult.getVersions();
 
-            System.out.println( "Available versions " + versions );
+            ans.append("{\"GroupID\":\"" + groupID + "\",\"ArtifactID\":\"" + artifactID + "\",");
 
-            ans.append("{\"GroupID\":\""+groupID+"\",\"ArtifactID\":\""+artifactID+"\",");
-
-            if(versions.size() > 0 ){
+            if (versions.size() > 0) {
                 ans.append("\"AvailableVersions\":[");
                 int count = 0;
-                while(count < versions.size()){
-                    if(count <   versions.size()-1){
-                        ans.append("\""+versions.get(count).toString()+"\",");
-                    }else{
-                        ans.append("\""+versions.get(count).toString()+"\"");
+                while (count < versions.size()) {
+                    if (count < versions.size() - 1) {
+                        ans.append("\"" + versions.get(count).toString() + "\",");
+                    } else {
+                        ans.append("\"" + versions.get(count).toString() + "\"");
                     }
                     count++;
                 }
                 ans.append("]}");
-            }else{
+            } else {
                 ans.append("\"ErrorMsg\":\"NotFound\"}");
             }
-        }catch (Exception e){
-            ans.append("{\"ErrorMsg\":\""+e.getMessage()+"\"}");
+        } catch (Exception e) {
+            ans.append("{\"ErrorMsg\":\"" + e.getMessage() + "\"}");
             return ans;
         }
 

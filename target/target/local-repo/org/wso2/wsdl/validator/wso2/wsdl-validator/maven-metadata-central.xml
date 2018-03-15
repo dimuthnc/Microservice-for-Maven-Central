@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.wso2.wsdl.validator.wso2</groupId>
+  <artifactId>wsdl-validator</artifactId>
+  <versioning>
+    <latest>1.2.0.wso2v1</latest>
+    <release>1.2.0.wso2v1</release>
+    <versions>
+      <version>1.0.3.wso2v1</version>
+      <version>1.1.0.wso2v1</version>
+      <version>1.1.0.wso2v2</version>
+      <version>1.2.0.wso2v1</version>
+    </versions>
+    <lastUpdated>20171206205711</lastUpdated>
+  </versioning>
+</metadata>

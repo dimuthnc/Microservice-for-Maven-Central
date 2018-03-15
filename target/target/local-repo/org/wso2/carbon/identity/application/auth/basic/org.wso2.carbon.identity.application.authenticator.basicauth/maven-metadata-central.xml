@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.wso2.carbon.identity.application.auth.basic</groupId>
+  <artifactId>org.wso2.carbon.identity.application.authenticator.basicauth</artifactId>
+  <versioning>
+    <latest>5.3.7</latest>
+    <release>5.3.7</release>
+    <versions>
+      <version>5.2.0</version>
+      <version>5.2.1</version>
+      <version>5.2.2</version>
+      <version>5.2.3</version>
+      <version>5.2.4</version>
+      <version>5.2.5</version>
+      <version>5.3.0</version>
+      <version>5.3.1</version>
+      <version>5.3.2</version>
+      <version>5.3.3</version>
+      <version>5.3.4</version>
+      <version>5.3.5</version>
+      <version>5.3.6</version>
+      <version>5.3.7</version>
+    </versions>
+    <lastUpdated>20180211231437</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.wso2.shade.org.wso2.carbon.analytics-common</groupId>
+  <artifactId>org.wso2.carbon.databridge-shaded</artifactId>
+  <versioning>
+    <latest>5.0.8.wso2v1</latest>
+    <release>5.0.8.wso2v1</release>
+    <versions>
+      <version>5.0.8.wso2v1</version>
+    </versions>
+    <lastUpdated>20170216071328</lastUpdated>
+  </versioning>
+</metadata>

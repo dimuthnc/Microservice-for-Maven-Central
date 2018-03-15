@@ -1,7 +1,8 @@
 # Setting running port
 port: 9094
 # Setting Remote Repository
-name: maven-central
-url: http://central.maven.org/maven2/
+name: wso2-public
+url: https://maven.wso2.org/nexus/content/groups/wso2-public
 id: central
 type: default
+
