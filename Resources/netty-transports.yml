@@ -1,0 +1,9 @@
+listenerConfigurations:
+-
+ id: "msf4j-https"
+ host: "127.0.0.1"
+ port: 9097
+ scheme: https
+ keyStoreFile: "dependency.jks"
+ keyStorePassword: dependency
+ certPass: dependency
