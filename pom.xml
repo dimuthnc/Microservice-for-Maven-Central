@@ -22,7 +22,7 @@
     <parent>
         <groupId>org.wso2.msf4j</groupId>
         <artifactId>msf4j-service</artifactId>
-        <version>2.4.0</version>
+        <version>2.5.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -32,7 +32,7 @@
     <name>WSO2 MSF4J Microservice</name>
 
     <properties>
-        <microservice.mainClass>org.service.Application_Deploy_MavenAether</microservice.mainClass>
+        <microservice.mainClass>org.service.ApplicationDeployMavenAether</microservice.mainClass>
         <aetherVersion>1.0.0.v20140518</aetherVersion>
         <mavenVersion>3.1.0</mavenVersion>
 
@@ -191,7 +191,7 @@
                     <configuration>
                         <programs>
                             <program>
-                                <mainClass>org.service.Application_Deploy_MavenAether</mainClass>
+                                <mainClass>org.service.ApplicationDeployMavenAether</mainClass>
                                 <id>app</id>
                             </program>
                         </programs>
