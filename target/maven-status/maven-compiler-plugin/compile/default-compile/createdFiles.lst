@@ -11,6 +11,7 @@ org/serviceSupportClasses/AvailableVersions.class
 org/eclipse/configPOJOS/RemoteRepo.class
 org/service/ApplicationDeployMavenAether.class
 org/eclipse/util/Booter.class
+authentication/UsernamePasswordSecurityInterceptor.class
 org/serviceSupportClasses/DependencyHeirarchy.class
 org/eclipse/util/ConsoleRepositoryListener.class
 org/eclipse/manual/ManualRepositorySystemFactory.class

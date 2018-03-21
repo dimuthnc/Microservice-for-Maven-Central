@@ -48,6 +48,7 @@ public class ApplicationDeployMavenAether {
                 new MicroservicesRunner()
                         .addGlobalRequestInterceptor(new UsernamePasswordSecurityInterceptor())
                         .deploy(new ServiceDependencyManager(configurations))
+
                         .start();
 
                 logger.info("Service for Repository " + configurations.getName() +" Deployed Successfully");

@@ -1,934 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1884f9a1-69e5-43cb-ac6a-1cc36d5ee825" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_yamlbeans_yamlbeans_1_06.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_wso2_commons_io_2_4_0_wso2v1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_wso2_commons_pool_1_5_6_wso2v1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_7_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_7_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_7_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_7_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_7_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_7_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_7_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_7_Final.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_websocket_javax_websocket_api_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_javax_ws_rs_api_2_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_14.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_aether_provider_3_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_artifact_3_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_3_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_model_builder_3_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_plugin_api_3_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_maven_maven_repository_metadata_3_1_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_servicemix_bundles_org_apache_servicemix_bundles_commons_beanutils_1_8_3_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_classworlds_2_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_component_annotations_1_5_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_interpolation_1_16.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_3_0_10.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_api_1_0_0_v20140518.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_connector_basic_1_0_0_v20140518.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_impl_1_0_0_v20140518.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_spi_1_0_0_v20140518.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_transport_file_1_0_0_v20140518.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_transport_http_1_0_0_v20140518.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_aether_aether_util_1_0_0_v20140518.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_inject_0_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_sisu_org_eclipse_sisu_plexus_0_1_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20170516.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_6_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_no_aop_3_1_6.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_guice_noaop_2_1_7.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_bean_1_4_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_sonatype_sisu_sisu_inject_plexus_1_4_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wso2_carbon_config_org_wso2_carbon_config_2_1_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wso2_carbon_messaging_org_wso2_carbon_messaging_3_0_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wso2_carbon_org_wso2_carbon_core_5_2_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wso2_carbon_secvault_org_wso2_carbon_secvault_5_0_8.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wso2_carbon_transport_org_wso2_carbon_transport_http_netty_5_0_1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wso2_carbon_utils_org_wso2_carbon_utils_2_0_2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wso2_msf4j_jaxrs_delegates_2_4_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wso2_msf4j_msf4j_core_2_4_0.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wso2_orbit_com_lmax_disruptor_3_3_2_wso2v2.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wso2_orbit_org_yaml_snakeyaml_1_16_0_wso2v1.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+    <list default="true" id="484d9129-27cc-4267-b17b-961676fa4647" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/authentication/UsernamePasswordSecurityInterceptor.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/aether-microservice.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/configFileReader/ReaderYaml.java" afterPath="$PROJECT_DIR$/src/main/java/org/configFileReader/ReaderYaml.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/service/Application_Deploy_MavenAether.java" afterPath="$PROJECT_DIR$/src/main/java/org/service/ApplicationDeployMavenAether.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/service/Service_DependencyManager.java" afterPath="$PROJECT_DIR$/src/main/java/org/service/ServiceDependencyManager.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/configuration.yml" afterPath="$PROJECT_DIR$/src/main/resources/configuration.yml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/service/ApplicationDeployMavenAether.java" afterPath="$PROJECT_DIR$/src/main/java/org/service/ApplicationDeployMavenAether.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/AvailableVersions.java" afterPath="$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/AvailableVersions.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/LatestVersion.java" afterPath="$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/LatestVersion.java" />
       <change beforePath="$PROJECT_DIR$/target/aether-microservice-1.0.0.jar" afterPath="$PROJECT_DIR$/target/aether-microservice-1.0.0.jar" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/bin/app" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/bin/app.bat" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/config/config.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/config/configuration.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/com/esotericsoftware/yamlbeans/yamlbeans/1.06/yamlbeans-1.06.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/com/fasterxml/jackson/core/jackson-core/2.9.2/jackson-core-2.9.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/com/fasterxml/jackson/core/jackson-databind/2.9.2/jackson-databind-2.9.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/com/google/guava/guava/18.0/guava-18.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/commons-codec/commons-codec/1.6/commons-codec-1.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/commons-io/wso2/commons-io/2.4.0.wso2v1/commons-io-2.4.0.wso2v1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/commons-pool/wso2/commons-pool/1.5.6.wso2v1/commons-pool-1.5.6.wso2v1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/io/netty/netty-buffer/4.1.7.Final/netty-buffer-4.1.7.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/io/netty/netty-codec-http/4.1.7.Final/netty-codec-http-4.1.7.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/io/netty/netty-codec-http2/4.1.7.Final/netty-codec-http2-4.1.7.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/io/netty/netty-codec/4.1.7.Final/netty-codec-4.1.7.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/io/netty/netty-common/4.1.7.Final/netty-common-4.1.7.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/io/netty/netty-handler/4.1.7.Final/netty-handler-4.1.7.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/io/netty/netty-resolver/4.1.7.Final/netty-resolver-4.1.7.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/io/netty/netty-transport/4.1.7.Final/netty-transport-4.1.7.Final.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/javax/inject/javax.inject/1/javax.inject-1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/javax/websocket/javax.websocket-api/1.1/javax.websocket-api-1.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/javax/ws/rs/javax.ws.rs-api/2.0/javax.ws.rs-api-2.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/log4j/log4j/1.2.14/log4j-1.2.14.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/apache/httpcomponents/httpclient/4.2.6/httpclient-4.2.6.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/apache/httpcomponents/httpcore/4.2.5/httpcore-4.2.5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/apache/maven/maven-aether-provider/3.1.0/maven-aether-provider-3.1.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/apache/maven/maven-model-builder/3.1.0/maven-model-builder-3.1.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/apache/maven/maven-model/3.0/maven-model-3.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/apache/maven/maven-repository-metadata/3.1.0/maven-repository-metadata-3.1.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/apache/servicemix/bundles/org.apache.servicemix.bundles.commons-beanutils/1.8.3_2/org.apache.servicemix.bundles.commons-beanutils-1.8.3_2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/codehaus/plexus/plexus-interpolation/1.16/plexus-interpolation-1.16.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/eclipse/aether/aether-api/1.0.0.v20140518/aether-api-1.0.0.v20140518.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/eclipse/aether/aether-connector-basic/1.0.0.v20140518/aether-connector-basic-1.0.0.v20140518.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/eclipse/aether/aether-impl/1.0.0.v20140518/aether-impl-1.0.0.v20140518.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/eclipse/aether/aether-spi/1.0.0.v20140518/aether-spi-1.0.0.v20140518.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/eclipse/aether/aether-transport-file/1.0.0.v20140518/aether-transport-file-1.0.0.v20140518.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/eclipse/aether/aether-transport-http/1.0.0.v20140518/aether-transport-http-1.0.0.v20140518.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/eclipse/aether/aether-util/1.0.0.v20140518/aether-util-1.0.0.v20140518.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/eclipse/sisu/org.eclipse.sisu.inject/0.1.1/org.eclipse.sisu.inject-0.1.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/eclipse/sisu/org.eclipse.sisu.plexus/0.1.1/org.eclipse.sisu.plexus-0.1.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/json/json/20170516/json-20170516.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/slf4j/jcl-over-slf4j/1.6.2/jcl-over-slf4j-1.6.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/slf4j/slf4j-log4j12/1.6.0/slf4j-log4j12-1.6.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/sonatype/sisu/sisu-guice/2.1.7/sisu-guice-2.1.7-noaop.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/sonatype/sisu/sisu-guice/3.1.6/sisu-guice-3.1.6-no_aop.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/sonatype/sisu/sisu-inject-bean/1.4.2/sisu-inject-bean-1.4.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/wso2/aethermicroservice/aether-microservice/1.0.0/aether-microservice-1.0.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/wso2/carbon/config/org.wso2.carbon.config/2.1.2/org.wso2.carbon.config-2.1.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/wso2/carbon/messaging/org.wso2.carbon.messaging/3.0.1/org.wso2.carbon.messaging-3.0.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/wso2/carbon/org.wso2.carbon.core/5.2.0/org.wso2.carbon.core-5.2.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/wso2/carbon/secvault/org.wso2.carbon.secvault/5.0.8/org.wso2.carbon.secvault-5.0.8.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/wso2/carbon/transport/org.wso2.carbon.transport.http.netty/5.0.1/org.wso2.carbon.transport.http.netty-5.0.1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/wso2/carbon/utils/org.wso2.carbon.utils/2.0.2/org.wso2.carbon.utils-2.0.2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/wso2/msf4j/jaxrs-delegates/2.4.0/jaxrs-delegates-2.4.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/wso2/msf4j/msf4j-core/2.4.0/msf4j-core-2.4.0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/wso2/orbit/com/lmax/disruptor/3.3.2.wso2v2/disruptor-3.3.2.wso2v2.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/wso2/orbit/org/yaml/snakeyaml/1.16.0.wso2v1/snakeyaml-1.16.0.wso2v1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/appassembler/repo/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JSONFormats/BuildJSONStructure.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JSONFormats/gaJSON.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JSONFormats/gavJSON.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/classes/configuration.yml" afterPath="$PROJECT_DIR$/target/classes/configuration.yml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/authentication/UsernamePasswordSecurityInterceptor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/configFileReader/ConfigFilePOJO.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/configFileReader/ConfigurationReader.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/configFileReader/ReaderYaml.class" afterPath="$PROJECT_DIR$/target/classes/org/configFileReader/ReaderYaml.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/service/Application_Deploy_MavenAether.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/service/Service_DependencyManager.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/service/Service_DependencyManagerOfMaven.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/deployment.yaml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/annogen/annogen/0.1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/annogen/annogen/0.1.0/annogen-0.1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/annogen/annogen/0.1.0/annogen-0.1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/ant-contrib/ant-contrib/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/ant-contrib/ant-contrib/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/ant-contrib/ant-contrib/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/ant/ant/1.6.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/ant/ant/1.6.2/ant-1.6.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/ant/ant/1.6.2/ant-1.6.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/antlr/antlr/2.7.6/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/antlr/antlr/2.7.6/antlr-2.7.6.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/antlr/antlr/2.7.6/antlr-2.7.6.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/aopalliance/aopalliance/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/aopalliance/aopalliance/1.0/aopalliance-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/aopalliance/aopalliance/1.0/aopalliance-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/aopalliance/aopalliance/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/aopalliance/aopalliance/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/aopalliance/aopalliance/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/avalon-framework/avalon-framework/4.1.3/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/avalon-framework/avalon-framework/4.1.3/avalon-framework-4.1.3.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/axion/axion/1.0-M3-dev/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/axion/axion/1.0-M3-dev/axion-1.0-M3-dev.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/axion/axion/1.0-M3-dev/axion-1.0-M3-dev.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/backport-util-concurrent/backport-util-concurrent/2.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/backport-util-concurrent/backport-util-concurrent/2.1/backport-util-concurrent-2.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/backport-util-concurrent/backport-util-concurrent/2.1/backport-util-concurrent-2.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/bouncycastle/bcprov-jdk15/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/bouncycastle/bcprov-jdk15/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/bouncycastle/bcprov-jdk15/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/cglib/cglib-nodep/2.1_3/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/cglib/cglib-nodep/2.1_3/cglib-nodep-2.1_3.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/checkstyle/checkstyle/2.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/checkstyle/checkstyle/2.2/checkstyle-2.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/checkstyle/checkstyle/2.2/checkstyle-2.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/googlecode/json-simple/json-simple/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/googlecode/json-simple/json-simple/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/googlecode/json-simple/json-simple/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/ibm/icu/icu4j/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/ibm/icu/icu4j/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/ibm/icu/icu4j/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/lowagie/itext/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/lowagie/itext/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/lowagie/itext/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/sun/xml/bind/jaxb-impl/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/sun/xml/bind/jaxb-impl/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/sun/xml/bind/jaxb-impl/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/sun/xml/bind/jaxb-xjc/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/sun/xml/bind/jaxb-xjc/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/sun/xml/bind/jaxb-xjc/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/thoughtworks/xstream/xstream-parent/1.2.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/thoughtworks/xstream/xstream-parent/1.2.2/xstream-parent-1.2.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/thoughtworks/xstream/xstream-parent/1.2.2/xstream-parent-1.2.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/thoughtworks/xstream/xstream/1.2.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/thoughtworks/xstream/xstream/1.2.2/xstream-1.2.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/thoughtworks/xstream/xstream/1.2.2/xstream-1.2.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/thoughtworks/xstream/xstream/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/thoughtworks/xstream/xstream/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/com/thoughtworks/xstream/xstream/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-beanutils/commons-beanutils/1.6.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-beanutils/commons-beanutils/1.6.1/commons-beanutils-1.6.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-beanutils/commons-beanutils/1.6.1/commons-beanutils-1.6.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-beanutils/commons-beanutils/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-beanutils/commons-beanutils/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-beanutils/commons-beanutils/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-betwixt/commons-betwixt/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-betwixt/commons-betwixt/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-betwixt/commons-betwixt/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-codec/commons-codec/1.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-codec/commons-codec/1.2/commons-codec-1.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-codec/commons-codec/1.2/commons-codec-1.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-collections/commons-collections/2.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-collections/commons-collections/2.1/commons-collections-2.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-collections/commons-collections/2.1/commons-collections-2.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-collections/commons-collections/3.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-collections/commons-collections/3.1/commons-collections-3.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-collections/commons-collections/3.1/commons-collections-3.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-collections/commons-collections/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-collections/commons-collections/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-collections/commons-collections/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-configuration/commons-configuration/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-configuration/commons-configuration/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-configuration/commons-configuration/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-digester/commons-digester/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-digester/commons-digester/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-digester/commons-digester/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-jelly/commons-jelly-tags-velocity/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-jelly/commons-jelly-tags-velocity/1.0/commons-jelly-tags-velocity-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-jelly/commons-jelly-tags-velocity/1.0/commons-jelly-tags-velocity-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-lang/commons-lang/2.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-lang/commons-lang/2.1/commons-lang-2.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-lang/commons-lang/2.1/commons-lang-2.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-lang/commons-lang/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-lang/commons-lang/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-lang/commons-lang/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging-api/1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging/1.1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging/1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging/1.1/commons-logging-1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging/1.1/commons-logging-1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-logging/commons-logging/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-pool/commons-pool/1.4/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-pool/commons-pool/1.4/commons-pool-1.4.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-pool/commons-pool/1.4/commons-pool-1.4.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-primitives/commons-primitives/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-primitives/commons-primitives/1.0/commons-primitives-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/commons-primitives/commons-primitives/1.0/commons-primitives-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/concurrent/concurrent/1.3.4/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/concurrent/concurrent/1.3.4/concurrent-1.3.4.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/concurrent/concurrent/1.3.4/concurrent-1.3.4.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/de/odysseus/juel/juel-api/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/de/odysseus/juel/juel-api/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/de/odysseus/juel/juel-api/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/de/odysseus/juel/juel-impl/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/de/odysseus/juel/juel-impl/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/de/odysseus/juel/juel-impl/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-common/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-common/1.0/geronimo-common-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-common/1.0/geronimo-common-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-core/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-core/1.0/geronimo-core-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-core/1.0/geronimo-core-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-j2ee/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-j2ee/1.0/geronimo-j2ee-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-j2ee/1.0/geronimo-j2ee-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-kernel/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-kernel/1.0/geronimo-kernel-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-kernel/1.0/geronimo-kernel-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-management/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-management/1.0/geronimo-management-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-management/1.0/geronimo-management-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-system/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-system/1.0/geronimo-system-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-system/1.0/geronimo-system-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-util/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-util/1.0/geronimo-util-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/geronimo/geronimo-util/1.0/geronimo-util-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/groovy/gram/1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/groovy/gram/1.1/gram-1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/groovy/gram/1.1/gram-1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/groovy/groovy-all/1.0-jsr-03/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/groovy/groovy-all/1.0-jsr-03/groovy-all-1.0-jsr-03.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/groovy/groovy-all/1.0-jsr-03/groovy-all-1.0-jsr-03.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/howl/howl-logger/0.1.8/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/howl/howl-logger/0.1.8/howl-logger-0.1.8.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/howl/howl-logger/0.1.8/howl-logger-0.1.8.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javacc/javacc/3.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javacc/javacc/3.2/javacc-3.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javacc/javacc/3.2/javacc-3.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/activation/activation/1.1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/activation/activation/1.1.1/activation-1.1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/activation/activation/1.1.1/activation-1.1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/activation/activation/1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/activation/activation/1.1/activation-1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/activation/activation/1.1/activation-1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/activation/activation/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/activation/activation/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/activation/activation/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/jcr/jcr/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/jcr/jcr/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/jcr/jcr/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/mail/mail/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/mail/mail/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/mail/mail/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/servlet/servlet-api/2.3/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/ws/rs/javax.ws.rs-api/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/ws/rs/javax.ws.rs-api/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/ws/rs/javax.ws.rs-api/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/xml/jaxr-api/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/xml/jaxr-api/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/javax/xml/jaxr-api/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/jdbm/jdbm/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/jdbm/jdbm/1.0/jdbm-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/jdbm/jdbm/1.0/jdbm-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/jstl/jstl/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/jstl/jstl/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/jstl/jstl/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/junit/junit/3.8.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/junit/junit/3.8.1/junit-3.8.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/junit/junit/3.8.1/junit-3.8.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/junit/junit/3.8.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/junit/junit/3.8.2/junit-3.8.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/junit/junit/3.8.2/junit-3.8.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/log4j/log4j/1.2.12/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/log4j/log4j/1.2.12/log4j-1.2.12.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/log4j/log4j/1.2.12/log4j-1.2.12.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/log4j/log4j/1.2.14/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/log4j/log4j/1.2.14/log4j-1.2.14.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/log4j/log4j/1.2.14/log4j-1.2.14.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/logkit/logkit/1.0.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/logkit/logkit/1.0.1/logkit-1.0.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/logkit/logkit/1.0.1/logkit-1.0.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/mx4j/mx4j/2.1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/mx4j/mx4j/2.1.1/mx4j-2.1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/mx4j/mx4j/2.1.1/mx4j-2.1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/java/dev/javacc/javacc/3.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/java/dev/javacc/javacc/3.2/javacc-3.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/java/dev/javacc/javacc/3.2/javacc-3.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/oauth/core/oauth-provider/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/oauth/core/oauth-provider/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/oauth/core/oauth-provider/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/oauth/core/oauth/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/oauth/core/oauth/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/oauth/core/oauth/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sf/ehcache/ehcache-core/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sf/ehcache/ehcache-core/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sf/ehcache/ehcache-core/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sf/ezmorph/ezmorph/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sf/ezmorph/ezmorph/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sf/ezmorph/ezmorph/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sourceforge/htmlunit/htmlunit/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sourceforge/htmlunit/htmlunit/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sourceforge/htmlunit/htmlunit/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sourceforge/nekohtml/nekohtml/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sourceforge/nekohtml/nekohtml/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/net/sourceforge/nekohtml/nekohtml/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/antlr/antlr/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/antlr/antlr/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/antlr/antlr/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/antlr/stringtemplate/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/antlr/stringtemplate/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/antlr/stringtemplate/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activeio-core/3.1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activeio-core/3.1.0/activeio-core-3.1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activeio-core/3.1.0/activeio-core-3.1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activeio-core/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activeio-core/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activeio-core/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activeio-parent/3.1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activeio-parent/3.1.0/activeio-parent-3.1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activeio-parent/3.1.0/activeio-parent-3.1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-client/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-client/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-client/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-core/5.2.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-core/5.2.0/activemq-core-5.2.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-core/5.2.0/activemq-core-5.2.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-core/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-core/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-core/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-jaas/5.2.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-jaas/5.2.0/activemq-jaas-5.2.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-jaas/5.2.0/activemq-jaas-5.2.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-jmdns_1.0/5.2.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-jmdns_1.0/5.2.0/activemq-jmdns_1.0-5.2.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-jmdns_1.0/5.2.0/activemq-jmdns_1.0-5.2.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-openwire-generator/5.2.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-openwire-generator/5.2.0/activemq-openwire-generator-5.2.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-openwire-generator/5.2.0/activemq-openwire-generator-5.2.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-parent/5.2.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-parent/5.2.0/activemq-parent-5.2.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/activemq/activemq-parent/5.2.0/activemq-parent-5.2.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/apache/1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/apache/1/apache-1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/apache/1/apache-1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/apache/3/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/apache/3/apache-3.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/apache/3/apache-3.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/apache/4/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/apache/4/apache-4.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/apache/4/apache-4.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-core/1.5.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-core/1.5.0/camel-core-1.5.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-core/1.5.0/camel-core-1.5.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-core/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-core/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-core/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-jms/1.5.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-jms/1.5.0/camel-jms-1.5.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-jms/1.5.0/camel-jms-1.5.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-parent/1.5.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-parent/1.5.0/camel-parent-1.5.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-parent/1.5.0/camel-parent-1.5.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-spring/1.5.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-spring/1.5.0/camel-spring-1.5.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-spring/1.5.0/camel-spring-1.5.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-swing/1.5.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-swing/1.5.0/camel-swing-1.5.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-swing/1.5.0/camel-swing-1.5.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-uface/1.5.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-uface/1.5.0/camel-uface-1.5.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/camel/camel-uface/1.5.0/camel-uface-1.5.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/commons/commons-parent/5/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/commons/commons-parent/5/commons-parent-5.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/commons/commons-parent/5/commons-parent-5.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/cxf-bundle/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/cxf-bundle/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/cxf-bundle/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-boolean/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-boolean/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-boolean/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-bug671/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-bug671/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-bug671/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-dv/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-dv/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-dv/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-ts/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-ts/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/cxf/xjcplugins/cxf-xjc-ts/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/derby/derby/10.1.3.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/derby/derby/10.1.3.1/derby-10.1.3.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/derby/derby/10.1.3.1/derby-10.1.3.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/build/1.0.5/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/build/1.0.5/build-1.0.5.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/build/1.0.5/build-1.0.5.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/server/apacheds-core-shared/1.0.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/server/apacheds-core-shared/1.0.0/apacheds-core-shared-1.0.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/server/apacheds-core-shared/1.0.0/apacheds-core-shared-1.0.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/server/apacheds-core/1.0.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/server/apacheds-core/1.0.0/apacheds-core-1.0.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/server/apacheds-core/1.0.0/apacheds-core-1.0.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/server/build/1.0.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/server/build/1.0.0/build-1.0.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/server/build/1.0.0/build-1.0.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/shared/build/0.9.5.3/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/shared/build/0.9.5.3/build-0.9.5.3.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/shared/build/0.9.5.3/build-0.9.5.3.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/shared/shared-asn1/0.9.5.3/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/shared/shared-asn1/0.9.5.3/shared-asn1-0.9.5.3.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/shared/shared-asn1/0.9.5.3/shared-asn1-0.9.5.3.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/shared/shared-ldap/0.9.5.3/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/shared/shared-ldap/0.9.5.3/shared-ldap-0.9.5.3.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/directory/shared/shared-ldap/0.9.5.3/shared-ldap-0.9.5.3.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/felix/1.0.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/felix/1.0.2/felix-1.0.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/felix/1.0.2/felix-1.0.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.command/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.command/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.command/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.runtime/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.runtime/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.runtime/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.shell/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.shell/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.apache.felix.gogo.shell/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.osgi.core/1.2.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.osgi.core/1.2.0/org.osgi.core-1.2.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/felix/org.osgi.core/1.2.0/org.osgi.core-1.2.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/genesis/config/config/1.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/genesis/config/config/1.2/config-1.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/genesis/config/config/1.2/config-1.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/genesis/config/project-config/1.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/genesis/config/project-config/1.2/project-config-1.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/genesis/config/project-config/1.2/project-config-1.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/genesis/genesis/1.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/genesis/genesis/1.2/genesis-1.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/genesis/genesis/1.2/genesis-1.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-ejb_2.1_spec/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-ejb_2.1_spec/1.0/geronimo-ejb_2.1_spec-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-ejb_2.1_spec/1.0/geronimo-ejb_2.1_spec-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-j2ee-deployment_1.1_spec/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-j2ee-deployment_1.1_spec/1.0/geronimo-j2ee-deployment_1.1_spec-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-j2ee-deployment_1.1_spec/1.0/geronimo-j2ee-deployment_1.1_spec-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-j2ee-management_1.0_spec/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-j2ee-management_1.0_spec/1.0/geronimo-j2ee-management_1.0_spec-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-j2ee-management_1.0_spec/1.0/geronimo-j2ee-management_1.0_spec-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jacc_1.1_spec/1.0.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jacc_1.1_spec/1.0.1/geronimo-jacc_1.1_spec-1.0.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jacc_1.1_spec/1.0.1/geronimo-jacc_1.1_spec-1.0.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.1.1/geronimo-jms_1.1_spec-1.1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.1.1/geronimo-jms_1.1_spec-1.1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jta_1.0.1B_spec/1.0.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jta_1.0.1B_spec/1.0.1/geronimo-jta_1.0.1B_spec-1.0.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jta_1.0.1B_spec/1.0.1/geronimo-jta_1.0.1B_spec-1.0.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/geronimo-jta_1.1_spec/1.1.1/geronimo-jta_1.1_spec-1.1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/specs/1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/specs/1.1/specs-1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/specs/1.1/specs-1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/specs/1.4/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/specs/1.4/specs-1.4.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/geronimo/specs/specs/1.4/specs-1.4.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpasyncclient/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpasyncclient/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpasyncclient/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpclient/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpclient/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpclient/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpcore-nio/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpcore-nio/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpcore-nio/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpcore/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpcore/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/httpcomponents/httpcore/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/api/openstack-keystone/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/api/openstack-keystone/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/api/openstack-keystone/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/api/sts/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/api/sts/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/api/sts/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/common/openstack-common/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/common/openstack-common/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/common/openstack-common/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-bouncycastle/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-bouncycastle/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-bouncycastle/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-enterprise/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-enterprise/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-enterprise/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-joda/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-joda/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-joda/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-netty/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-netty/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-netty/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-slf4j/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-slf4j/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-slf4j/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-sshj/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-sshj/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/driver/jclouds-sshj/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-compute/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-compute/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-compute/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-core/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-core/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-core/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-scriptbuilder/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-scriptbuilder/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/jclouds/jclouds-scriptbuilder/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/juddi/juddi-client/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/juddi/juddi-client/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/juddi/juddi-client/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/juddi/scout/scout/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/juddi/scout/scout/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/juddi/scout/scout/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/juddi/uddi-ws/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/juddi/uddi-ws/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/juddi/uddi-ws/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/neethi/neethi/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/neethi/neethi/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/neethi/neethi/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/sanselan/sanselan/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/santuario/xmlsec/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/santuario/xmlsec/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/santuario/xmlsec/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.autoscaler.service.stub/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.autoscaler.service.stub/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.autoscaler.service.stub/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.cloud.controller.service.stub/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.cloud.controller.service.stub/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.cloud.controller.service.stub/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.cloud.controller/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.cloud.controller/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.cloud.controller/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.common/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.common/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.common/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.manager/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.manager/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.manager/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.messaging/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.messaging/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.messaging/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.tenant.mgt/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.tenant.mgt/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/stratos/org.apache.stratos.tenant.mgt/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/tomcat/tomcat-juli/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/tomcat/tomcat-juli/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/tomcat/tomcat-juli/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/velocity/velocity/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/velocity/velocity/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/velocity/velocity/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/ws/security/wss4j/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/ws/security/wss4j/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/ws/security/wss4j/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/ws/xmlschema/xmlschema-core/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/ws/xmlschema/xmlschema-core/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/ws/xmlschema/xmlschema-core/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/xbean/xbean-spring/3.4/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/xbean/xbean-spring/3.4/xbean-spring-3.4.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/xbean/xbean-spring/3.4/xbean-spring-3.4.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/xbean/xbean/3.4/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/xbean/xbean/3.4/xbean-3.4.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/xbean/xbean/3.4/xbean-3.4.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/xmlbeans/xmlbeans/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/xmlbeans/xmlbeans/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/apache/xmlbeans/xmlbeans/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jackson/jackson-core-asl/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jackson/jackson-core-asl/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jackson/jackson-core-asl/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jackson/jackson-mapper-asl/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jackson/jackson-mapper-asl/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jackson/jackson-mapper-asl/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jettison/jettison/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jettison/jettison/1.0/jettison-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jettison/jettison/1.0/jettison-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jettison/jettison/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jettison/jettison/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/jettison/jettison/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/stax2-api/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/stax2-api/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/stax2-api/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/woodstox-core-asl/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/woodstox-core-asl/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/woodstox-core-asl/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/wstx-asl/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/wstx-asl/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/codehaus/woodstox/wstx-asl/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-compiler/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-compiler/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-compiler/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-core/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-core/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-core/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-decisiontables/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-decisiontables/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-decisiontables/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-jsr94/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-jsr94/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-jsr94/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-templates/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-templates/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-templates/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-verifier/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-verifier/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/drools-verifier/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/knowledge-api/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/knowledge-api/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/knowledge-api/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/knowledge-internal-api/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/knowledge-internal-api/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/drools/knowledge-internal-api/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/easymock/easymock/2.4/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/easymock/easymock/2.4/easymock-2.4.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/easymock/easymock/2.4/easymock-2.4.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/easymock/easymockclassextension/2.4/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/easymock/easymockclassextension/2.4/easymockclassextension-2.4.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/easymock/easymockclassextension/2.4/easymockclassextension-2.4.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.contenttype/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.contenttype/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.contenttype/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.expressions/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.expressions/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.expressions/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.jobs/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.jobs/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.jobs/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.runtime/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.runtime/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.core.runtime/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.app/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.app/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.app/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.common/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.common/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.common/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.preferences/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.preferences/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.preferences/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.registry/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.registry/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.equinox.registry/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.osgi.services/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.osgi.services/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.osgi.services/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.osgi/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.osgi/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/birt/runtime/org.eclipse.osgi/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/core/org.eclipse.core.expressions/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/core/org.eclipse.core.expressions/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/core/org.eclipse.core.expressions/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/javax.servlet.jsp/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.apache.jasper/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.http.helper/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.http.servlet/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.jsp.jasper/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.core/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.director/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.garbagecollector/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.metadata.repository/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.publisher/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.p2.repository/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/equinox/org.eclipse.equinox.security/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jdt/core/compiler/ecj/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jdt/core/compiler/ecj/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jdt/core/compiler/ecj/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.el/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.el/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.el/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.servlet.jsp/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.servlet.jsp/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.servlet.jsp/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.servlet/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.servlet/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/jetty/orbit/javax.servlet/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/tycho/org.eclipse.osgi/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/tycho/org.eclipse.osgi/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/tycho/org.eclipse.osgi/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/wst/jsdt/org.eclipse.wst.jsdt.debug.rhino.debugger/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/eclipse/wst/jsdt/org.eclipse.wst.jsdt.debug.transport/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/fusesource/hawtbuf/hawtbuf/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/fusesource/hawtbuf/hawtbuf/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/fusesource/hawtbuf/hawtbuf/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/hamcrest/hamcrest-all/1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/hamcrest/hamcrest-all/1.1/hamcrest-all-1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/hamcrest/hamcrest-all/1.1/hamcrest-all-1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/hamcrest/hamcrest-parent/1.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.contenttype/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.contenttype/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.contenttype/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.jobs/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.jobs/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.jobs/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.runtime/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.runtime/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.runtime/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.equinox.common/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.equinox.common/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.equinox.common/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.equinox.preferences/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.equinox.preferences/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jibx/config/3rdparty/org/eclipse/org.eclipse.equinox.preferences/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jsecurity/jsecurity/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jsecurity/jsecurity/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/jsecurity/jsecurity/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/json/json/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/json/json/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/json/json/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/mortbay/jetty/jetty/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/mortbay/jetty/jetty/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/mortbay/jetty/jetty/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/mvel/mvel2/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/mvel/mvel2/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/mvel/mvel2/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/opensaml/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/opensaml/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/opensaml/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/openws/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/openws/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/openws/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/xmltooling/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/xmltooling/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/opensaml/xmltooling/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/openxri/openxri-client/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/openxri/openxri-client/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/openxri/openxri-client/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/openxri/openxri-syntax/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/openxri/openxri-syntax/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/openxri/openxri-syntax/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/scribe/scribe/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/scribe/scribe/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/scribe/scribe/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/slf4j/nlog4j/1.2.24/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/slf4j/nlog4j/1.2.24/nlog4j-1.2.24.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/slf4j/nlog4j/1.2.24/nlog4j-1.2.24.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-aop/2.5.5/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-aop/2.5.5/spring-aop-2.5.5.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-aop/2.5.5/spring-aop-2.5.5.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-aop/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-aop/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-aop/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-asm/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-asm/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-asm/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-beans/2.5.5/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-beans/2.5.5/spring-beans-2.5.5.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-beans/2.5.5/spring-beans-2.5.5.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-beans/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-beans/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-beans/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-context-support/2.5.5/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-context-support/2.5.5/spring-context-support-2.5.5.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-context-support/2.5.5/spring-context-support-2.5.5.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-context/2.5.5/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-context/2.5.5/spring-context-2.5.5.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-context/2.5.5/spring-context-2.5.5.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-context/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-context/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-context/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-core/2.5.5/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-core/2.5.5/spring-core-2.5.5.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-core/2.5.5/spring-core-2.5.5.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-core/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-core/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-core/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-expression/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-expression/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-expression/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-jms/2.5.5/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-jms/2.5.5/spring-jms-2.5.5.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-jms/2.5.5/spring-jms-2.5.5.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-test/2.5.5/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-test/2.5.5/spring-test-2.5.5.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-test/2.5.5/spring-test-2.5.5.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-tx/2.5.5/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-tx/2.5.5/spring-tx-2.5.5.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-tx/2.5.5/spring-tx-2.5.5.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-web/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-web/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/org/springframework/spring-web/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/regexp/regexp/1.3/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/regexp/regexp/1.3/regexp-1.3.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/regexp/regexp/1.3/regexp-1.3.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/rome/rome/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/rome/rome/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/rome/rome/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/stax/stax-api/1.0.1/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/stax/stax-api/1.0.1/stax-api-1.0.1.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/stax/stax-api/1.0.1/stax-api-1.0.1.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/stax/stax-api/1.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/stax/stax-api/1.0/stax-api-1.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/stax/stax-api/1.0/stax-api-1.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/velocity/velocity-dep/1.4/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/velocity/velocity-dep/1.4/velocity-dep-1.4.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/velocity/velocity-dep/1.4/velocity-dep-1.4.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/velocity/velocity/1.4/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/velocity/velocity/1.4/velocity-1.4.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/velocity/velocity/1.4/velocity-1.4.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/woodstox/wstx/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/woodstox/wstx/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/woodstox/wstx/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/ws-commons/tcpmon/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/ws-commons/tcpmon/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/ws-commons/tcpmon/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/wsdl4j/wsdl4j/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/wsdl4j/wsdl4j/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/wsdl4j/wsdl4j/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xalan/xalan/2.6.0/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xalan/xalan/2.6.0/xalan-2.6.0.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xalan/xalan/2.6.0/xalan-2.6.0.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xerces/2.0.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xerces/2.0.2/xerces-2.0.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xerces/2.0.2/xerces-2.0.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xercesImpl/2.0.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xercesImpl/2.0.2/xercesImpl-2.0.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xercesImpl/2.0.2/xercesImpl-2.0.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xercesImpl/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xercesImpl/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xercesImpl/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xmlParserAPIs/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xmlParserAPIs/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xerces/xmlParserAPIs/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-apis/xml-apis/1.0.b2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-apis/xml-apis/2.0.2/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-apis/xml-apis/2.0.2/xml-apis-2.0.2.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-apis/xml-apis/2.0.2/xml-apis-2.0.2.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-apis/xml-apis/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-apis/xml-apis/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-apis/xml-apis/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-resolver/xml-resolver/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-resolver/xml-resolver/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xml-resolver/xml-resolver/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xmlpull/xmlpull/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xmlpull/xmlpull/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xmlpull/xmlpull/resolver-status.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xpp3/xpp3_min/1.1.3.4.O/_remote.repositories" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xpp3/xpp3_min/1.1.3.4.O/xpp3_min-1.1.3.4.O.pom" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xpp3/xpp3_min/1.1.3.4.O/xpp3_min-1.1.3.4.O.pom.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xpp3/xpp3_min/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xpp3/xpp3_min/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/local-repo/xpp3/xpp3_min/resolver-status.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/configPOJOS/RemoteRepo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/manual/ManualRepositorySystemFactory$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/manual/ManualRepositorySystemFactory.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/util/Booter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/util/ConsoleRepositoryListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/eclipse/util/ConsoleTransferListener.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/service/ApplicationDeployMavenAether.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/service/Application_Deploy_MavenAether.class" afterPath="$PROJECT_DIR$/target/classes/org/service/Application_Deploy_MavenAether.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/service/ServiceDependencyManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/service/Service_DependencyManager.class" afterPath="$PROJECT_DIR$/target/classes/org/service/Service_DependencyManager.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/serviceSupportClasses/AvailableVersions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/serviceSupportClasses/DependencyHeirarchy.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/serviceSupportClasses/LatestVersion.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/dependency.jks" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/target/netty-transports.yml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/original-aether-microservice-1.0.0.jar" afterPath="$PROJECT_DIR$/target/original-aether-microservice-1.0.0.jar" />
-      <change beforePath="$PROJECT_DIR$/target/target/local-repo/org/apache/httpcomponents/httpclient/maven-metadata-central.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/target/local-repo/org/apache/httpcomponents/httpclient/maven-metadata-central.xml.sha1" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/target/local-repo/org/apache/httpcomponents/httpclient/resolver-status.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/target/local-repo/org/wso2/carbon/org.wso2.carbon.addressing/maven-metadata-central.xml" afterPath="$PROJECT_DIR$/target/target/local-repo/org/wso2/carbon/org.wso2.carbon.addressing/maven-metadata-central.xml" />
+      <change beforePath="$PROJECT_DIR$/target/target/local-repo/org/wso2/carbon/org.wso2.carbon.addressing/maven-metadata-central.xml.sha1" afterPath="$PROJECT_DIR$/target/target/local-repo/org/wso2/carbon/org.wso2.carbon.addressing/maven-metadata-central.xml.sha1" />
+      <change beforePath="$PROJECT_DIR$/target/target/local-repo/org/wso2/carbon/org.wso2.carbon.addressing/resolver-status.properties" afterPath="$PROJECT_DIR$/target/target/local-repo/org/wso2/carbon/org.wso2.carbon.addressing/resolver-status.properties" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -937,22 +51,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="UsernamePasswordSecurityInterceptor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/authentication/UsernamePasswordSecurityInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="144">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/classes/config.yml">
+      <file leaf-file-name="gaJSON.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JSONFormats/gaJSON.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BuildJSONStructure.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JSONFormats/BuildJSONStructure.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gavJSON.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/JSONFormats/gavJSON.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -961,8 +95,8 @@
       <file leaf-file-name="ApplicationDeployMavenAether.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ApplicationDeployMavenAether.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="55" column="55" lean-forward="false" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+            <state relative-caret-position="561">
+              <caret line="47" column="24" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -970,43 +104,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServiceDependencyManager.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ServiceDependencyManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ServiceDependencyManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+            <state relative-caret-position="-828">
+              <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="DependencyHeirarchy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/DependencyHeirarchy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <state relative-caret-position="72">
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/classes/configuration.yml">
+      <file leaf-file-name="LatestVersion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/LatestVersion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <marker date="1521623771744" expanded="true" signature="29:32" ph="9097" />
-              </folding>
+            <state relative-caret-position="72">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/config.yml">
+      <file leaf-file-name="RemoteRepo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/configPOJOS/RemoteRepo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="72">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ManualRepositorySystemFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/manual/ManualRepositorySystemFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Booter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/util/Booter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -1015,8 +167,8 @@
       <file leaf-file-name="ConfigurationReader.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ConfigurationReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+            <state relative-caret-position="72">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -1025,18 +177,48 @@
       <file leaf-file-name="ReaderYaml.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ReaderYaml.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="72">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/configuration.yml">
+      <file leaf-file-name="ConsoleRepositoryListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/util/ConsoleRepositoryListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="126">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsoleTransferListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/util/ConsoleTransferListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigFilePOJO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ConfigFilePOJO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AvailableVersions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/AvailableVersions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -1050,6 +232,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/service/ApplicationDeployMavenAether.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -1080,9 +269,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1107,6 +297,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aether-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservice-for-Maven-Central" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JSONFormats" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aether-microservice" type="b2602c69:ProjectViewProjectNode" />
@@ -1151,6 +349,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="org" type="462c0819:PsiDirectoryNode" />
               <item name="eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="configPOJOS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aether-microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Microservice-for-Maven-Central" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="eclipse" type="462c0819:PsiDirectoryNode" />
               <item name="manual" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1181,35 +389,10 @@
               <item name="org" type="462c0819:PsiDirectoryNode" />
               <item name="serviceSupportClasses" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Microservice-for-Maven-Central" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Microservice-for-Maven-Central" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Microservice-for-Maven-Central" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aether-microservice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Microservice-for-Maven-Central" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1219,6 +402,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1323,50 +507,49 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1884f9a1-69e5-43cb-ac6a-1cc36d5ee825" name="Default" comment="" />
-      <created>1521623696909</created>
+      <changelist id="484d9129-27cc-4267-b17b-961676fa4647" name="Default" comment="" />
+      <created>1521630870716</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1521623696909</updated>
-      <workItem from="1521625161320" duration="617000" />
-      <workItem from="1521629732436" duration="603000" />
+      <updated>1521630870716</updated>
+      <workItem from="1521630873226" duration="87000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1785000" />
+    <option name="totallyTimeSpent" value="87000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-4" width="1865" height="1085" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33193716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26912493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24986242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1380,50 +563,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ReaderYaml.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ServiceDependencyManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="11" selection-end-line="55" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/authentication/UsernamePasswordSecurityInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ApplicationDeployMavenAether.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="55" column="55" lean-forward="false" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
+        <state relative-caret-position="561">
+          <caret line="47" column="24" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1432,179 +575,97 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ServiceDependencyManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="-828">
           <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/AvailableVersions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        <state relative-caret-position="72">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config.yml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/DependencyHeirarchy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="72">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/serviceSupportClasses/LatestVersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/configPOJOS/RemoteRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/manual/ManualRepositorySystemFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/util/Booter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/util/ConsoleRepositoryListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/eclipse/util/ConsoleTransferListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ConfigFilePOJO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ConfigurationReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ReaderYaml.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="72">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <marker date="1521623771744" expanded="true" signature="29:32" ph="9097" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/authentication/UsernamePasswordSecurityInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ApplicationDeployMavenAether.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="46" column="65" lean-forward="false" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <marker date="1521623771744" expanded="true" signature="29:32" ph="9097" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ConfigurationReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ReaderYaml.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ServiceDependencyManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2016">
-          <caret line="137" column="44" lean-forward="false" selection-start-line="137" selection-start-column="44" selection-end-line="137" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/authentication/UsernamePasswordSecurityInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <marker date="1521623771744" expanded="true" signature="29:32" ph="9097" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ConfigurationReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ReaderYaml.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ApplicationDeployMavenAether.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="46" column="65" lean-forward="false" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1616,184 +677,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ApplicationDeployMavenAether.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/JSONFormats/gaJSON.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="46" column="65" lean-forward="false" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ConfigurationReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+        <state relative-caret-position="90">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ReaderYaml.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/JSONFormats/BuildJSONStructure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/configuration.yml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/JSONFormats/gavJSON.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <marker date="1521623771744" expanded="true" signature="29:32" ph="9097" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/authentication/UsernamePasswordSecurityInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ApplicationDeployMavenAether.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="46" column="65" lean-forward="false" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ConfigurationReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ReaderYaml.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <marker date="1521623771744" expanded="true" signature="29:32" ph="9097" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/resources/config.yml" />
-    <entry file="file://$PROJECT_DIR$/target/resources/configuration.yml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/authentication/UsernamePasswordSecurityInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ApplicationDeployMavenAether.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="55" column="55" lean-forward="false" selection-start-line="55" selection-start-column="55" selection-end-line="55" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <marker date="1521623771744" expanded="true" signature="29:32" ph="9097" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ConfigurationReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/configFileReader/ReaderYaml.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/service/ServiceDependencyManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        <state relative-caret-position="90">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
